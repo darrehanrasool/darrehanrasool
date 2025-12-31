@@ -26,13 +26,12 @@
   </p>
 </div>
 
----
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
----
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrehanrasool&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
----
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+
