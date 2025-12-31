@@ -1,7 +1,6 @@
 <span><div align="left">
-<img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />  
+<img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
 </div></span>
-
 <span>
 <div align="left"> 
 <a href="https://github.com/Darrehan">
@@ -9,7 +8,6 @@
 </a>
 </div>  
 </span>
-
 <div align="center">
   <p align="center">
     <span>
@@ -17,21 +15,10 @@
     </span>  
   </p>
 </div>
-
 <div align="center">
   <p align="center">
   <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,swift,mongodb,postgres,mysql,redis,docker,kubernetes,git,github,vscode,linux,tailwind,prisma,supabase,fastapi,flask,graphql,kafka,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,swift,mongodb,postgres,mysql,redis,docker,kubernetes,git,github,vscode,linux,tailwind,prisma,supabase,fastapi,flask,graphql,kafka,tensorflow,pytorch,sklearn,opencv,anaconda" />
   </a>
   </p>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrehanrasool&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-
