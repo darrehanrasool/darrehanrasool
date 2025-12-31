@@ -31,8 +31,8 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darrehan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darrehan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=darrehanrasool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darrehanrasool&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
@@ -41,39 +41,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darrehan&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrehan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darrehanrasool&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
-
----
-
-### 💼 Tech Stack & Expertise
-
-<div align="center">
-
-#### 🎯 Core Technologies
-<img src="https://img.shields.io/badge/MERN_Stack-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full_Stack-Expert-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/iOS_Development-Advanced-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
-#### 🤖 AI & Research
-<img src="https://img.shields.io/badge/AI_Research-Active-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic_AI-Exploring-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Intermediate-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
