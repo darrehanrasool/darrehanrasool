@@ -22,7 +22,8 @@
     <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,swift,mongodb,postgres,mysql,redis,docker,kubernetes,git,github,vscode,linux,tailwind,prisma,supabase,fastapi,flask,graphql,kafka,tensorflow,pytorch,sklearn,opencv,anaconda" />
   </a>
   </p>
-  
-     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
 
+  <p>
+     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+</p>
 </div>
