@@ -22,51 +22,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,swift,mongodb,postgres,mysql,redis,docker,kubernetes,git,github,vscode,linux,tailwind,prisma,supabase,fastapi,flask,graphql,kafka,tensorflow,pytorch,sklearn,opencv,anaconda" />
   </a>
   </p>
-
-  <p align="center">
-  <a href="https://appbrewery.github.io/gridgarden/" target="_blank">
-    <button style="
-      background-color:#4CAF50;
-      color:white;
-      padding:10px 18px;
-      border:none;
-      border-radius:6px;
-      font-size:14px;
-      cursor:pointer;
-      margin-right:10px;
-    ">
-      CSS GRID
-    </button>
-  </a>
-
-  <a href="https://appbrewery.github.io/flexboxfroggy/" target="_blank">
-    <button style="
-      background-color:#F4B342;
-      color:white;
-      padding:10px 18px;
-      border:none;
-      border-radius:6px;
-      font-size:14px;
-      cursor:pointer;
-    ">
-      CSS FLEX
-    </button>
-  </a>
-  <a href="https://saijogeorge.com/css-puns/" target="_blank">
-    <button style="
-      background-color:#2196F3;
-      color:white;
-      padding:10px 18px;
-      border:none;
-      border-radius:6px;
-      font-size:14px;
-      cursor:pointer;
-    ">
-      View GitHub
-    </button>
-  </a>
-</p>
-
+  
 [![CSS GRID](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge)](https://appbrewery.github.io/gridgarden/)
 [![CSS FlEX](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge)](https://appbrewery.github.io/flexboxfroggy/)
 [![CSS PUNES](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge)](https://saijogeorge.com/css-puns/)
