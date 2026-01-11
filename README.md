@@ -23,10 +23,6 @@
   </a>
   </p>
   
-[![CSS GRID](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge)](https://appbrewery.github.io/gridgarden/)
-[![CSS FlEX](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge)](https://appbrewery.github.io/flexboxfroggy/)
-[![CSS PUNES](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge)](https://saijogeorge.com/css-puns/)
-
   <p>
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
 </p>
