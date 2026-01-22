@@ -19,9 +19,21 @@
 <div align="center">
   <p align="center">
 <a href="https://github.com/Darrehan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,nextjs,ts,jest,cypress,postgres,graphql,docker,aws,git,github" />
-  
-  </p>
+<a href="https://github.com/Darrehan?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=
+  html,css,bootstrap,js,ts,
+  react,nextjs,nodejs,express,
+  mongodb,postgres,redis,
+  graphql,
+  jest,cypress,postman,
+  docker,
+  github,git,githubactions,
+  aws,vercel,render,netlify,
+  npm,yarn,
+  linux,vscode,
+  canva
+  " />
+</a>
   
   <p>
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
