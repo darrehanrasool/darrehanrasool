@@ -4,8 +4,8 @@
 </div></span>
 <span>
 <div align="left"> 
-<a href="https://github.com/Darrehan">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;Computer+Science+Learner+%7C+Software+Engineer;MERN+Stack+%7C+AI+Researcher+%7C+iOS+Developer" alt="Typing SVG" />
+<a href="https://github.com/darrehanrasol">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;Computer+Science+Learner+%7C+Software+Engineer;MERN+Stack+%7C+AI+Researcher" alt="Typing SVG" />
 </a>
 </div>  
 </span>
