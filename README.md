@@ -20,6 +20,12 @@
   <p align="center">
 <a href="https://github.com/Darrehan?tab=repositories">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,nextjs,ts,jest,cypress,postgres,graphql,docker,aws,git,github" />
+    <img 
+  src="https://cdn.simpleicons.org/jira/0052CC"
+  alt="Jira"
+  height="48"
+  style="vertical-align: middle; margin-left: 6px;"
+/>
 </a>
   </p>
   
