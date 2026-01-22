@@ -18,9 +18,9 @@
 </div>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/Darrehan?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,swift,mongodb,postgres,mysql,redis,docker,kubernetes,git,github,vscode,linux,tailwind,prisma,supabase,fastapi,flask,graphql,kafka,tensorflow,pytorch,sklearn,opencv,anaconda" />
-  </a>
+<a href="https://github.com/Darrehan?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,nextjs,ts,jira,postgres,graphql,docker,aws,git" />
+</a>
   </p>
   
   <p>
