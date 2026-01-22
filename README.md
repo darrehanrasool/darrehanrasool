@@ -21,16 +21,16 @@
 <a href="https://github.com/Darrehan?tab=repositories">
 <a href="https://github.com/Darrehan?tab=repositories">
   <img src="https://skillicons.dev/icons?i=
-  html,css,bootstrap,js,ts,
-  react,nextjs,nodejs,express,
+  html,css, bootstrap, js, ts,
+  react,nextjs,nodejs, express,
   mongodb,postgres,redis,
   graphql,
   jest,cypress,postman,
   docker,
-  github,git,githubactions,
-  aws,vercel,render,netlify,
-  npm,yarn,
-  linux,vscode,
+  github, git,githubactions,
+  AWS, Vercel, Render, Netlify,
+  npm, yarn,
+  Linux, VSCode,
   canva
   " />
 </a>
