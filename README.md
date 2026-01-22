@@ -1,40 +1,20 @@
-<span><div align="left">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=darrehan&label=Profile%20views&color=0e75b6&style=flat" alt="darrehan" />
-
-</div></span>
-<span>
+</div>
 <div align="left"> 
 <a href="https://github.com/darrehanrasol">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;Computer+Science+Learner+%7C+Software+Engineer;MERN+Stack+%7C+AI+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dar+Rehan+Rasool;Computer+Science+Learner+%7C+Software+Engineer" alt="Typing SVG" />
 </a>
 </div>  
-</span>
 <div align="center">
-  <p align="center">
-    <span>
+  <p>
      <img src="https://img.shields.io/badge/Full Stack Arsenal-darkgreen" />
-    </span>  
   </p>
 </div>
 <div align="center">
-  <p align="center">
-<a href="https://github.com/darrehanrasool?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=
-  html,css, bootstrap, js, ts,
-  react,nextjs,nodejs, express,
-  mongodb,postgres,redis,
-  graphql,
-  jest,cypress,postman,
-  docker,
-  github, git,githubactions,
-  AWS, Vercel, Render, Netlify,
-  npm, yarn,
-  Linux, VSCode,
-  canva
-  " />
+<a href="https://github.com/darrehanrasool?tab=repositories"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,express,npm,jquery,react,nextjs,ts,jest,cypress,postgres,mongodb,graphql,docker,aws,vercel,git,github,postman,githubactions,linux,vscode,redis,vite,redux,webpack," />
 </a>
-  
-  <p>
+ </div>
+<div align="center">
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
-</p>
 </div>
