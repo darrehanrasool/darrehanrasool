@@ -19,7 +19,7 @@
 <div align="center">
   <p align="center">
 <a href="https://github.com/Darrehan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,nextjs,ts,jira,postgres,graphql,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,nextjs,ts,jest,cypress,postgres,graphql,docker,aws,git,github" />
 </a>
   </p>
   
