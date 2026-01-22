@@ -18,8 +18,7 @@
 </div>
 <div align="center">
   <p align="center">
-<a href="https://github.com/Darrehan?tab=repositories">
-<a href="https://github.com/Darrehan?tab=repositories">
+<a href="https://github.com/darrehanrasool?tab=repositories">
   <img src="https://skillicons.dev/icons?i=
   html,css, bootstrap, js, ts,
   react,nextjs,nodejs, express,
