@@ -15,6 +15,3 @@
 <a href="https://github.com/darrehanrasool?tab=repositories"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,express,npm,jquery,react,nextjs,ts,jest,cypress,postgres,mongodb,graphql,docker,aws,vercel,git,github,postman,githubactions,linux,vscode,redis,vite,redux,webpack," />
 </a>
  </div>
-<div align="center">
-     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
-</div>
