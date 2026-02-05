@@ -48,25 +48,4 @@ it is where becoming quietly begins.
 — @darrehanrasool
 </p>
 
-<p style="margin:0; line-height:1.95;">
-<span style="color:#BF91F3; font-size:26px;">"</span>
-<span style="color:#38BDAE; font-size:17px;">
-میں بے شمار بار گرا—  
-ہمیشہ کمزوری سے نہیں،  
-بلکہ کسی اَن کہی تلاش میں۔  
-ہر زوال نے ایک پوشیدہ ڈور آشکار کی،  
-جو مجھے اُن جگہوں سے کھینچ لاتی رہی  
-جہاں جانا میرا انتخاب نہیں تھا۔  
-اپنے باطن کے خلا میں کھو کر  
-آخر میں نے یہ جانا—  
-خلا عدم نہیں؛  
-یہی سے بننے کا عمل شروع ہوتا ہے۔
-</span>
-<span style="color:#BF91F3; font-size:26px;">"</span>
-</p>
-
-<p style="margin-top:6px; text-align:right; color:#70A5FD; font-size:13px;">
-— دار ریحان رسول
-</p>
-
 </div>
