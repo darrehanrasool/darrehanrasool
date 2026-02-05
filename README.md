@@ -32,14 +32,14 @@
 <p style="margin:0; line-height:1.75;">
 <span style="color:#BF91F3; font-size:28px;">❝</span>
 <span style="color:#38BDAE; font-size:17px;">
-I let myself fall countless times.  
+ I let myself fall countless times.  
 Not always from weakness,  
 but from searching for something unnamed.  
 Each fall revealed a hidden thread,  
-pulling me from places I never chose to enter.  
+pulling me from places I never chose to enter .  
 Lost within my inner void, I understood at last   
 the void is not absence,  
-it is where becoming quietly begins.
+it is where becoming quietly begins 
 </span>
 <span style="color:#BF91F3; font-size:28px;">❞</span>
 </p>
