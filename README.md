@@ -8,7 +8,7 @@
 </div>  
 <div align="center">
   <p>
-     <img src="https://img.shields.io/badge/دار ریحان رسول-darkgreen" />
+     <img src="https://img.shields.io/badge/under Kashmere-darkgreen" />
   </p>
 </div>
 <div align="center">
